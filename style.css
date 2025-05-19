@@ -1,0 +1,26 @@
+.fon{
+    border: 2px solid;
+    padding: 20px;
+    margin: 20px auto;
+    width: 300px;
+    border-radius: 50px;
+    text-align: center;
+    background-color: aqua;
+}
+.image{
+    width: 262px;
+    height: 250px;
+}
+.name{
+    margin-bottom: 15px;
+    margin-left: 16px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 150%;
+}
+.text{
+    margin-left: 16px;
+    font-size:16px;
+    font-weight: 400;
+    line-height: 150%;
+}
